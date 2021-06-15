@@ -1,0 +1,11 @@
+---
+application:
+  name: "daisyxmusic"
+  project: "Musicbotop"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-daisyxmusic"
+  routes:
+  - application_name: "daisyxmusic"
+    paths:
+    - "/*"
